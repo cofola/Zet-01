@@ -1,4 +1,4 @@
-# pfUI
+# Zet-01
 
 An AddOn for World of Warcraft (1.12.1), mostly known as "Vanilla", which aims to be a full replacement for the original interface. The design is highly inspired by TukUI and ElvUI, bringing modern features and a minimalistic style that's easy to use right from the start. It is entirely written from scratch without any inclusion of third-party addons or libraries.
 
